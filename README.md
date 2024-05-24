@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bye there 👋
 <img src="https://cdn.discordapp.com/emojis/950566094031188010.gif" width="100" height="100">
 <div align="center" img src="https://cdn.discordapp.com/emojis/950566094031188010.gif" width="100" height="100"></div>
 <!--
